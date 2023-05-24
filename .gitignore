@@ -1,0 +1,7 @@
+__pycache__
+data
+
+# set ASYN_DB var
+.env_dev
+probe.py
+.idea
